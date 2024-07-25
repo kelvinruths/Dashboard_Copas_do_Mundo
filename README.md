@@ -1,5 +1,5 @@
 
-# Dashbord_Copas_do_Mundo
+# Dashboard_Copas_do_Mundo
 
   Este projeto destina-se para apresentação de um Dashboard das Copas do Mundo, baseado nos dados disponíveis no Big Query do site Base dos Dados.
 
